@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/birthday/static/css/main.ba2bdf9f.chunk.css",
+    "main.js": "/birthday/static/js/main.dc79858b.chunk.js",
+    "runtime-main.js": "/birthday/static/js/runtime-main.4fc00cde.js",
+    "static/js/2.460a9e5a.chunk.js": "/birthday/static/js/2.460a9e5a.chunk.js",
+    "index.html": "/birthday/index.html",
+    "precache-manifest.5deb39862ce693e75d663fe4921307ad.js": "/birthday/precache-manifest.5deb39862ce693e75d663fe4921307ad.js",
+    "service-worker.js": "/birthday/service-worker.js",
+    "static/js/2.460a9e5a.chunk.js.LICENSE.txt": "/birthday/static/js/2.460a9e5a.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/birthday/static/media/sad_kitty.afef165e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fc00cde.js",
+    "static/js/2.460a9e5a.chunk.js",
+    "static/css/main.ba2bdf9f.chunk.css",
+    "static/js/main.dc79858b.chunk.js"
+  ]
+}
