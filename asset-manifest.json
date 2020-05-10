@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/birthday/static/css/main.ba2bdf9f.chunk.css",
-    "main.js": "/birthday/static/js/main.dc79858b.chunk.js",
+    "main.js": "/birthday/static/js/main.4b5eec99.chunk.js",
     "runtime-main.js": "/birthday/static/js/runtime-main.4fc00cde.js",
     "static/js/2.460a9e5a.chunk.js": "/birthday/static/js/2.460a9e5a.chunk.js",
     "index.html": "/birthday/index.html",
-    "precache-manifest.2ce8949a972df118f27fd3ac83085585.js": "/birthday/precache-manifest.2ce8949a972df118f27fd3ac83085585.js",
+    "precache-manifest.e32670fb43d68773f3a5f09e1dc16360.js": "/birthday/precache-manifest.e32670fb43d68773f3a5f09e1dc16360.js",
     "service-worker.js": "/birthday/service-worker.js",
     "static/js/2.460a9e5a.chunk.js.LICENSE.txt": "/birthday/static/js/2.460a9e5a.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/birthday/static/media/sad_kitty.afef165e.jpg"
@@ -14,6 +14,6 @@
     "static/js/runtime-main.4fc00cde.js",
     "static/js/2.460a9e5a.chunk.js",
     "static/css/main.ba2bdf9f.chunk.css",
-    "static/js/main.dc79858b.chunk.js"
+    "static/js/main.4b5eec99.chunk.js"
   ]
 }
