@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/birthday/static/css/main.23be5e5a.chunk.css",
-    "main.js": "/birthday/static/js/main.72e2ce43.chunk.js",
+    "main.css": "/birthday/static/css/main.d9074361.chunk.css",
+    "main.js": "/birthday/static/js/main.aca1441b.chunk.js",
     "runtime-main.js": "/birthday/static/js/runtime-main.4fc00cde.js",
-    "static/js/2.8b440d3a.chunk.js": "/birthday/static/js/2.8b440d3a.chunk.js",
+    "static/js/2.b46789c0.chunk.js": "/birthday/static/js/2.b46789c0.chunk.js",
     "index.html": "/birthday/index.html",
-    "precache-manifest.fe33aad3dc9692eaa94b3272c2bb720c.js": "/birthday/precache-manifest.fe33aad3dc9692eaa94b3272c2bb720c.js",
+    "precache-manifest.cc5324565b7794e2284b005fecfd256d.js": "/birthday/precache-manifest.cc5324565b7794e2284b005fecfd256d.js",
     "service-worker.js": "/birthday/service-worker.js",
-    "static/js/2.8b440d3a.chunk.js.LICENSE.txt": "/birthday/static/js/2.8b440d3a.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/birthday/static/media/sad_kitty.afef165e.jpg",
-    "static/media/socicon.scss": "/birthday/static/media/socicon.b1167a45.eot"
+    "static/js/2.b46789c0.chunk.js.LICENSE.txt": "/birthday/static/js/2.b46789c0.chunk.js.LICENSE.txt",
+    "static/media/socicon.scss": "/birthday/static/media/Socicon.dbb2486d.eot",
+    "static/media/styles.scss": "/birthday/static/media/sad_kitty.afef165e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4fc00cde.js",
-    "static/js/2.8b440d3a.chunk.js",
-    "static/css/main.23be5e5a.chunk.css",
-    "static/js/main.72e2ce43.chunk.js"
+    "static/js/2.b46789c0.chunk.js",
+    "static/css/main.d9074361.chunk.css",
+    "static/js/main.aca1441b.chunk.js"
   ]
 }
